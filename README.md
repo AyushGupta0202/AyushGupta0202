@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @AyushGupta0202
+<h2>Coder's skin with an enthusiastic Soul! Glad to see you here, friend.</h2>
+
+- 👋 Hi, I’m Ayush Gupta.
 - 👀 I’m interested in Android Development, Digital Marketing, and Finance.
 - 🌱 I’m currently looking for open-source contribution and freelancing opportunities.
 - 💞️ I’m looking to collaborate on Android dev. projects.
