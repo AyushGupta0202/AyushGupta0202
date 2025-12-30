@@ -1,0 +1,35 @@
+name: Update README with Metrics
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Update README
+        run: |
+          # This workflow can be extended to inject dynamic metrics
+          # For now, it's a placeholder for future enhancements
+          echo "README update workflow ready for expansion"
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update README metrics [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+

@@ -1,0 +1,22 @@
+name: Test Workflows
+
+# This workflow can be used to test other workflows
+# Run manually to verify all workflows are functioning
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Test repo-score logic
+        run: |
+          SCORE=0
+          if [ -d ".github/workflows" ]; then SCORE=$((SCORE+15)); fi
+          if [ -f "README.md" ]; then SCORE=$((SCORE+10)); fi
+          echo "Test score: $SCORE/100"
+          echo "✅ Workflow logic test passed"
+

@@ -1,0 +1,107 @@
+name: Repo Auto Scorer
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  score:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Compute Score
+        id: score
+        run: |
+          SCORE=0
+
+          # Stars (0-20)
+          STARS=$(curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/repos/${{ github.repository }}" | \
+            grep -o '"stargazers_count":[0-9]*' | grep -o '[0-9]*' || echo "0")
+          if [ "$STARS" -ge 100 ]; then
+            SCORE=$((SCORE+20))
+          elif [ "$STARS" -ge 20 ]; then
+            SCORE=$((SCORE+10))
+          elif [ "$STARS" -ge 5 ]; then
+            SCORE=$((SCORE+5))
+          fi
+
+          # Tests (0-25)
+          if [ -d "test" ] || [ -d "tests" ] || [ -d "src/test" ] || [ -d "__tests__" ]; then
+            SCORE=$((SCORE+25))
+          fi
+
+          # Coverage (0-25)
+          if [ -f "coverage.xml" ] || [ -f "coverage.json" ] || [ -f ".coverage" ] || [ -d "coverage" ]; then
+            SCORE=$((SCORE+25))
+          fi
+
+          # CI Status (0-15)
+          if [ -d ".github/workflows" ]; then
+            SCORE=$((SCORE+15))
+          fi
+
+          # Docs & Hygiene (0-15)
+          if [ -f "README.md" ]; then
+            SCORE=$((SCORE+10))
+          fi
+          if [ -f "LICENSE" ] || [ -f "LICENSE.md" ]; then
+            SCORE=$((SCORE+5))
+          fi
+
+          # Cap score at 100
+          if [ $SCORE -gt 100 ]; then
+            SCORE=100
+          fi
+          # Ensure score is non-negative
+          if [ $SCORE -lt 0 ]; then
+            SCORE=0
+          fi
+          
+          echo "SCORE=$SCORE" >> $GITHUB_OUTPUT
+          
+          # Determine Grade
+          if [ $SCORE -ge 90 ]; then
+            GRADE="A"
+            COLOR="critical"
+          elif [ $SCORE -ge 80 ]; then
+            GRADE="B"
+            COLOR="success"
+          elif [ $SCORE -ge 70 ]; then
+            GRADE="C"
+            COLOR="important"
+          elif [ $SCORE -ge 60 ]; then
+            GRADE="D"
+            COLOR="yellow"
+          else
+            GRADE="F"
+            COLOR="inactive"
+          fi
+
+          echo "GRADE=$GRADE" >> $GITHUB_OUTPUT
+          echo "COLOR=$COLOR" >> $GITHUB_OUTPUT
+          echo "Score: $SCORE/100 | Grade: $GRADE"
+
+      - name: Create Score Badge
+        run: |
+          SCORE=${{ steps.score.outputs.SCORE }}
+          GRADE=${{ steps.score.outputs.GRADE }}
+          COLOR=${{ steps.score.outputs.COLOR }}
+
+          echo "## 📊 Repo Quality Score" >> score-report.md
+          echo "" >> score-report.md
+          echo "**Score:** $SCORE/100" >> score-report.md
+          echo "**Grade:** $GRADE" >> score-report.md
+          echo "" >> score-report.md
+          echo "![Repo Grade](https://img.shields.io/badge/Repo_Grade-$GRADE-$COLOR?style=for-the-badge)" >> score-report.md
+
+          cat score-report.md
+
