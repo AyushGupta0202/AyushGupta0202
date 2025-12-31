@@ -1,0 +1,16 @@
+<svg width="500" height="120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="120" fill="#000"/>
+  <text x="20" y="30" fill="#00ffcc" font-family="JetBrains Mono" font-size="16">
+    TECH DEBT PRESSURE
+  </text>
+
+  <rect x="20" y="50" width="460" height="20" fill="#111"/>
+  <rect x="20" y="50" width="320" height="20" fill="#ff0033">
+    <animate attributeName="width" values="280;340;280" dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="20" y="95" fill="#ff0033" font-family="JetBrains Mono" font-size="14">
+    ACTION REQUIRED
+  </text>
+</svg>
+

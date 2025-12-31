@@ -1,0 +1,16 @@
+<svg width="800" height="60" viewBox="0 0 800 60" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="800" height="60" fill="#050505"/>
+  <rect x="0" y="55" width="800" height="2" fill="#00ffcc">
+    <animate attributeName="width" from="0" to="800" dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="20" y="38" fill="#00ffcc" font-family="JetBrains Mono" font-size="20">
+    SYSTEM STATUS: ACTIVE
+  </text>
+
+  <text x="500" y="38" fill="#ff0033" font-family="JetBrains Mono" font-size="16">
+    MEDIOCRITY: REJECTED
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite"/>
+  </text>
+</svg>
+
