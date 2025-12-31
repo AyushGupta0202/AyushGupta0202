@@ -14,11 +14,18 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/coding.gif" width="500" height="300" alt="Coding Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="500" height="300" alt="Coding Animation"/>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/banner.gif" width="800" height="200" alt="Banner Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="200" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500" alt="Multi Screen Analysis"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" alt="Awesome Work Environment"/>
 </div>
 
 <pre align="center">
@@ -49,7 +56,7 @@ EXECUTION > EXCUSES
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/rocket.gif" width="200" height="200" alt="Rocket Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="200" height="200" alt="Rocket Animation"/>
 </div>
 
 <h3 align="center">
@@ -67,8 +74,10 @@ Engineering with intent. Systems over noise. Execution over talk.
 ## 🧠 WHO AM I (NO MARKETING, ONLY SIGNAL)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/developer.gif" width="400" height="300" alt="Developer Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="400" height="300" alt="Developer Animation"/>
 </div>
+
+<i>Engineering with intent. Systems over noise. Execution over talk.</i>
 
 - **Senior-level engineer by output, not by title**  
 - **Systems thinker. Constraint enforcer. Failure-mode hunter**  
@@ -76,7 +85,19 @@ Engineering with intent. Systems over noise. Execution over talk.
 - **Allergic to:**
   - buzzwords  
   - cargo-cult frameworks  
-  - fake "impact"  
+  - fake "impact"
+
+<details>
+  <summary>🎯 More about my engineering philosophy</summary>
+  <br>
+  
+  - **Zero tolerance for mediocrity** - Every line of code must justify its existence
+  - **Failure is data** - Broken systems teach more than successful demos
+  - **Automation over trust** - Humans forget, pipelines don't
+  - **Benchmarks > beliefs** - Performance claims require numbers
+  - **Tests are documentation** - Code without tests is undefined behavior
+  
+</details>  
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=🟢+STATUS:+ACTIVE;🔴+TOLERANCE:+ZERO;⚫+MODE:+PRODUCTION" alt="Status Animation" />
@@ -93,7 +114,11 @@ Engineering with intent. Systems over noise. Execution over talk.
 ## 🛠️ TECH STACK (WEAPONS, NOT TOYS)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/techstack.gif" width="600" height="200" alt="Tech Stack Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="600" height="200" alt="Tech Stack Floating"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Tech Stack Animation"/>
 </div>
 
 <div align="center">
@@ -103,7 +128,7 @@ Engineering with intent. Systems over noise. Execution over talk.
 ### ⚙️ Languages
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/code.gif" width="400" height="200" alt="Code Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="400" height="200" alt="Code Animation"/>
 </div>
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
@@ -139,7 +164,7 @@ Engineering with intent. Systems over noise. Execution over talk.
 ![Refactors](https://img.shields.io/badge/Refactors-RUTHLESS-black?style=for-the-badge&logo=hammer&logoColor=white)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/mindset.gif" width="600" height="200" alt="Mindset Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="600" height="200" alt="Mindset Animation"/>
 </div>
 
 ---
@@ -155,24 +180,39 @@ Engineering with intent. Systems over noise. Execution over talk.
 ## 📊 STATS (RAW SIGNAL)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/stats.gif" width="500" height="150" alt="Stats Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="500" height="300" alt="3D Cool Statistics"/>
 </div>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="500" height="150" alt="Stats Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAyushGupta0202%2FAyushGupta0202&label=VISITORS&labelColor=%23000&countColor=%2300ffcc" alt="Profile Visitors" />
   <img src="https://komarev.com/ghpvc/?username=AyushGupta0202&label=Profile%20views&color=00ffcc&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushGupta0202&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGupta0202&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=FFFFFF" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyushGupta0202&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&text_color=FFFFFF&border_color=00ffcc&border_radius=8" alt="GitHub Stats" />
+</div>
+
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AyushGupta0202&rank_icon=percentile&show_icons=true&theme=tokyonight&show=reviews&bg_color=0D1117&title_color=00ffcc&icon_color=00ffcc&text_color=FFFFFF&border_color=00ffcc&border_radius=8" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushGupta0202&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ffcc&text_color=FFFFFF&border_color=00ffcc&border_radius=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGupta0202&theme=radical&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushGupta0202&theme=tokyonight&border_radius=8&background=0D1117&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc&border=00ffcc" alt="GitHub Streak" />
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/github-contributions.gif" width="800" height="200" alt="Contributions Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="800" height="200" alt="Contributions Animation"/>
 </div>
 
 ---
@@ -180,7 +220,11 @@ Engineering with intent. Systems over noise. Execution over talk.
 ## ⏱ TIME ALLOCATION (REAL DATA)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/time.gif" width="600" height="200" alt="Time Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600" height="300" alt="Awesome Work Environment"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Time Animation"/>
 </div>
 
 <p align="center">
@@ -194,7 +238,12 @@ Engineering with intent. Systems over noise. Execution over talk.
 ## 🧩 COMPETITIVE PROGRAMMING
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/competitive.gif" width="600" height="200" alt="Competitive Programming Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="600" height="300" alt="Let's Do It"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600" height="300" alt="Coding Vibe"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Competitive Programming Animation"/>
 </div>
 
 ### LeetCode
@@ -216,7 +265,7 @@ Engineering with intent. Systems over noise. Execution over talk.
 ## 🐍 ACTIVITY TRACE
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/github-contributions.gif" width="800" height="200" alt="Contributions Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="800" height="200" alt="Contributions Animation"/>
 </div>
 
 <p align="center">
@@ -227,12 +276,20 @@ Engineering with intent. Systems over noise. Execution over talk.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushGupta0202&theme=redical&hide_border=true&bg_color=0D1117&color=00ffcc&line=00ffcc&point=ffffff" alt="Activity Graph" />
 </div>
 
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" alt="Animated Line Separator" />
+</div>
+
 ---
 
 ## ⚔️ ENGINEERING DOCTRINE
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/doctrine.gif" width="600" height="200" alt="Doctrine Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="600" height="300" alt="Productive Working"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Doctrine Animation"/>
 </div>
 
 **1. Correctness is binary**  
@@ -270,7 +327,12 @@ Slow code is broken code.
 ## 🔥 OPERATING PRINCIPLES
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/principles.gif" width="600" height="200" alt="Principles Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="600" height="300" alt="Development Time"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="600" height="300" alt="Multi Screen Analysis"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Principles Animation"/>
 </div>
 
 <div align="center">
@@ -290,11 +352,16 @@ Slow code is broken code.
 ## 🧪 CURRENT FOCUS
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/focus.gif" width="600" height="200" alt="Focus Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600" height="300" alt="Multiprogramming Environment"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="600" height="300" alt="Automatic Typing"/>
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=High-performance+Android+architecture;Compose+Multiplatform+at+scale;Build+systems+%26+CI+hardening;Prompt+engineering+%26+agent+workflows" alt="Focus Typing" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Focus Animation"/>
 </div>
 
 - High-performance Android architecture  
@@ -309,7 +376,12 @@ Slow code is broken code.
 ## 🚫 HARD NO LIST
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/no.gif" width="500" height="200" alt="No Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="500" height="300" alt="Client Vs Designer"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="500" height="300" alt="Designer Vs Developer"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500" height="200" alt="No Animation"/>
 </div>
 
 <div align="center">
@@ -331,8 +403,27 @@ Slow code is broken code.
 > Broken systems taught more than successful demos ever did.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/failure.gif" width="500" height="200" alt="Failure Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="500" height="300" alt="Error 404"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="500" height="300" alt="Pro Level Debugging"/>
 </div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500" height="200" alt="Failure Animation"/>
+</div>
+
+<details>
+  <summary>📚 Expand failure case details</summary>
+  <br>
+  
+  Each failure documented here represents a learning opportunity. These incidents are not hidden—they're weaponized into knowledge.
+  
+  **Failure Analysis Framework:**
+  - Root cause identification
+  - Impact quantification
+  - Prevention strategy
+  - Monitoring implementation
+  
+</details>
 
 ### How This Repo Will Fail
 
@@ -363,7 +454,12 @@ H --> I[Graceful Degradation]
 > Every system here ships with a death certificate in advance.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/autopsy.gif" width="600" height="200" alt="Autopsy Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="600" height="300" alt="Curious Tech Geek"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="600" height="300" alt="Night Chill"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Autopsy Animation"/>
 </div>
 
 ### Template
@@ -397,6 +493,10 @@ Exact conditions under which this system must be rewritten.
 
 ## 🧪 BENCHMARKS (REAL NUMBERS)
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="600" height="300" alt="Coworking"/>
+</div>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Cold_Start-412ms-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/P95_Latency-118ms-blue?style=for-the-badge"/>
@@ -414,7 +514,7 @@ Exact conditions under which this system must be rewritten.
 > **Enforcement Rule:** No performance claims without benchmarks. CI enforces this.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/benchmark.gif" width="600" height="200" alt="Benchmark Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Benchmark Animation"/>
 </div>
 
 ---
@@ -424,7 +524,12 @@ Exact conditions under which this system must be rewritten.
 > If it isn't threat-modeled, it isn't secure.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/security.gif" width="500" height="200" alt="Security Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="500" height="300" alt="Pro Coder"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="500" height="300" alt="Typing"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500" height="200" alt="Security Animation"/>
 </div>
 
 ### Threat Model
@@ -451,7 +556,11 @@ Unverified reports ignored.
 ## 📐 QUALITY GATE
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/quality.gif" width="600" height="200" alt="Quality Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="600" height="300" alt="Productive Working"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Quality Animation"/>
 </div>
 
 <p align="center">
@@ -485,7 +594,12 @@ If it fails → rewrite or delete
 ## 🧨 PHILOSOPHY (UNFILTERED)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/philosophy.gif" width="600" height="200" alt="Philosophy Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="600" height="300" alt="MindSphere"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="600" height="300" alt="Coding in Peace"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Philosophy Animation"/>
 </div>
 
 <div align="center">
@@ -503,10 +617,18 @@ If it fails → rewrite or delete
 ## 📫 CONTACT (ONLY IF SERIOUS)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/contact.gif" width="400" height="200" alt="Contact Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294008-ed8de58b-d4d0-4790-aa81-a39fdc8a1e50.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294009-98ca7572-795f-4056-b2c1-ccbde3f2982e.gif" width="100" />
+  <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="100" />
 </div>
 
-<p align="center">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="400" height="200" alt="Contact Animation"/>
+</div>
+
+<div align="center">
   <a href="https://github.com/AyushGupta0202">
     <img src="https://img.shields.io/badge/GitHub-DIRECT-black?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -517,22 +639,36 @@ If it fails → rewrite or delete
     <img src="https://img.shields.io/badge/Email-No_BS-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-</p>
+</div>
+
+<br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/social.gif" width="600" height="150" alt="Social Animation"/>
+  <a href="https://dev.to/yourusername">
+    <img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" />
+  </a>
+  <a href="https://leetcode.com/yourusername">
+    <img src="https://img.shields.io/badge/-LeetCode-0A0209?style=for-the-badge&logo=LeetCode&logoColor=d5d5d5"/>
+  </a>
+  <a href="https://stackoverflow.com/users/youruserid">
+    <img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/social.gif" width="600" height="150" alt="Social Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="150" alt="Social Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="150" alt="Social Animation"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/footer.gif" width="800" height="200" alt="Footer Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="800" height="200" alt="Footer Animation"/>
 </div>
 
 <p align="center">
@@ -544,7 +680,7 @@ If it fails → rewrite or delete
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/achievement.gif" width="600" height="200" alt="Achievement Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Achievement Animation"/>
 </div>
 
 ---
@@ -554,7 +690,7 @@ If it fails → rewrite or delete
 > Learn freely. Clone nothing.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/license.gif" width="500" height="150" alt="License Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500" height="150" alt="License Animation"/>
 </div>
 
 See [LICENSE-EXTENSION.md](LICENSE-EXTENSION.md) for anti-copypaste clause.
@@ -570,7 +706,7 @@ See [LICENSE-EXTENSION.md](LICENSE-EXTENSION.md) for anti-copypaste clause.
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/debt.gif" width="600" height="200" alt="Tech Debt Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Tech Debt Animation"/>
 </div>
 
 | Area | Debt | Reason | Status |
@@ -597,7 +733,7 @@ This prevents bullshit excuses.
 > This repository assumes every PR is wrong until proven otherwise.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/ai-reviewer.gif" width="500" height="200" alt="AI Reviewer Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500" height="200" alt="AI Reviewer Animation"/>
 </div>
 
 **Psychological effect:** Contributors slow down. Quality goes up.
@@ -609,7 +745,12 @@ See [PR Template](.github/pull_request_template.md) for review criteria.
 ## 📊 LIVE METRICS DASHBOARD
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/dashboard.gif" width="700" height="300" alt="Dashboard Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="700" height="300" alt="Busy Work"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="700" height="300" alt="Eat Sleep Code Repeat"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="700" height="300" alt="Dashboard Animation"/>
 </div>
 
 ### Velocity
@@ -646,7 +787,7 @@ See [PR Template](.github/pull_request_template.md) for review criteria.
 ## ⚠️ LEGAL NOTICE
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/legal.gif" width="500" height="150" alt="Legal Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500" height="150" alt="Legal Animation"/>
 </div>
 
 See [LICENSE-EXTENSION.md](LICENSE-EXTENSION.md) for anti-copypaste clause.
@@ -658,7 +799,11 @@ See [LICENSE-EXTENSION.md](LICENSE-EXTENSION.md) for anti-copypaste clause.
 ## 🎯 VISUAL SUMMARY
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/gifs/summary.gif" width="800" height="300" alt="Summary Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="800" height="300" alt="Summary Animation"/>
+</div>
+
+<div align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" alt="Animated Line Separator" />
 </div>
 
 ### What This Profile Signals
@@ -692,3 +837,41 @@ See [LICENSE-EXTENSION.md](LICENSE-EXTENSION.md) for anti-copypaste clause.
 **Last Updated:** Auto-updated via GitHub Actions  
 **Workflow Status:** ✅ All workflows operational  
 **Profile Grade:** A (Weaponized Edition)
+
+---
+
+## 🎯 PROFILE METRICS EXPANDED
+
+<details>
+  <summary>📈 Click to expand detailed metrics</summary>
+  
+  <br>
+  
+  ### GitHub Activity Breakdown
+  
+  | Metric | Value | Status |
+  |--------|-------|--------|
+  | Total Contributions | Auto-calculated | ✅ Active |
+  | Longest Streak | Auto-calculated | ✅ Active |
+  | Current Streak | Auto-calculated | ✅ Active |
+  | Repositories | Auto-calculated | ✅ Active |
+  | Stars Received | Auto-calculated | ✅ Active |
+  
+  ### Code Quality Metrics
+  
+  | Metric | Value | Status |
+  |--------|-------|--------|
+  | Repo Grade | A | ✅ Excellent |
+  | Test Coverage | 95%+ | ✅ High |
+  | CI/CD Status | Enforced | ✅ Active |
+  | Code Review | Mandatory | ✅ Enforced |
+  
+  ### Performance Metrics
+  
+  | Metric | Value | Status |
+  |--------|-------|--------|
+  | Build Time | < 1min | ✅ Fast |
+  | Test Time | < 15s | ✅ Fast |
+  | Deployment | Automated | ✅ Active |
+  
+</details>
