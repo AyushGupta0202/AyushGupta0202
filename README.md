@@ -24,8 +24,8 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="500" alt="Multi Screen Analysis"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="500" alt="Awesome Work Environment"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" alt="Multi Screen Analysis"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="400" alt="Awesome Work Environment"/>
 </div>
 
 <pre align="center">
@@ -114,11 +114,7 @@ Engineering with intent. Systems over noise. Execution over talk.
 ## 🛠️ TECH STACK (WEAPONS, NOT TOYS)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="600" height="200" alt="Tech Stack Floating"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Tech Stack Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" alt="Tech Stack Floating"/>
 </div>
 
 <div align="center">
@@ -180,11 +176,7 @@ Engineering with intent. Systems over noise. Execution over talk.
 ## 📊 STATS (RAW SIGNAL)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="500" height="300" alt="3D Cool Statistics"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="500" height="150" alt="Stats Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="450" alt="3D Cool Statistics"/>
 </div>
 
 <div align="center">
@@ -220,11 +212,7 @@ Engineering with intent. Systems over noise. Execution over talk.
 ## ⏱ TIME ALLOCATION (REAL DATA)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600" height="300" alt="Awesome Work Environment"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Time Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="450" alt="Awesome Work Environment"/>
 </div>
 
 <p align="center">
@@ -238,12 +226,8 @@ Engineering with intent. Systems over noise. Execution over talk.
 ## 🧩 COMPETITIVE PROGRAMMING
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="600" height="300" alt="Let's Do It"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600" height="300" alt="Coding Vibe"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Competitive Programming Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="400" alt="Let's Do It"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400" alt="Coding Vibe"/>
 </div>
 
 ### LeetCode
@@ -277,7 +261,7 @@ Engineering with intent. Systems over noise. Execution over talk.
 </div>
 
 <div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" alt="Animated Line Separator" />
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Animated Line Separator" />
 </div>
 
 ---
@@ -285,11 +269,7 @@ Engineering with intent. Systems over noise. Execution over talk.
 ## ⚔️ ENGINEERING DOCTRINE
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="600" height="300" alt="Productive Working"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Doctrine Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="450" alt="Productive Working"/>
 </div>
 
 **1. Correctness is binary**  
@@ -327,12 +307,8 @@ Slow code is broken code.
 ## 🔥 OPERATING PRINCIPLES
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="600" height="300" alt="Development Time"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="600" height="300" alt="Multi Screen Analysis"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Principles Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400" alt="Development Time"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400" alt="Multi Screen Analysis"/>
 </div>
 
 <div align="center">
@@ -352,16 +328,12 @@ Slow code is broken code.
 ## 🧪 CURRENT FOCUS
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="600" height="300" alt="Multiprogramming Environment"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="600" height="300" alt="Automatic Typing"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400" alt="Multiprogramming Environment"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="400" alt="Automatic Typing"/>
 </div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=High-performance+Android+architecture;Compose+Multiplatform+at+scale;Build+systems+%26+CI+hardening;Prompt+engineering+%26+agent+workflows" alt="Focus Typing" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Focus Animation"/>
 </div>
 
 - High-performance Android architecture  
@@ -376,12 +348,8 @@ Slow code is broken code.
 ## 🚫 HARD NO LIST
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="500" height="300" alt="Client Vs Designer"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="500" height="300" alt="Designer Vs Developer"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500" height="200" alt="No Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50e9dd4cd.gif" width="400" alt="Client Vs Designer"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749443-0810e511-4f46-4492-96aa-3c110d7bc41a.gif" width="400" alt="Designer Vs Developer"/>
 </div>
 
 <div align="center">
@@ -403,12 +371,8 @@ Slow code is broken code.
 > Broken systems taught more than successful demos ever did.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="500" height="300" alt="Error 404"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="500" height="300" alt="Pro Level Debugging"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500" height="200" alt="Failure Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212897597-fd4c1add-ec1c-4669-9a8d-c37aaaf19044.gif" width="400" alt="Error 404"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width="400" alt="Pro Level Debugging"/>
 </div>
 
 <details>
@@ -454,12 +418,8 @@ H --> I[Graceful Degradation]
 > Every system here ships with a death certificate in advance.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="600" height="300" alt="Curious Tech Geek"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="600" height="300" alt="Night Chill"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Autopsy Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="400" alt="Curious Tech Geek"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400" alt="Night Chill"/>
 </div>
 
 ### Template
@@ -494,7 +454,7 @@ Exact conditions under which this system must be rewritten.
 ## 🧪 BENCHMARKS (REAL NUMBERS)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="600" height="300" alt="Coworking"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="450" alt="Coworking"/>
 </div>
 
 <p align="center">
@@ -513,9 +473,6 @@ Exact conditions under which this system must be rewritten.
 
 > **Enforcement Rule:** No performance claims without benchmarks. CI enforces this.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Benchmark Animation"/>
-</div>
 
 ---
 
@@ -524,12 +481,8 @@ Exact conditions under which this system must be rewritten.
 > If it isn't threat-modeled, it isn't secure.
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="500" height="300" alt="Pro Coder"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="500" height="300" alt="Typing"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500" height="200" alt="Security Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212751818-13da6fd2-27ca-45c4-9c64-3940ccfa6fd3.gif" width="400" alt="Pro Coder"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212751381-b0b2320e-6ef6-4041-a77a-de279fe5d3ae.gif" width="400" alt="Typing"/>
 </div>
 
 ### Threat Model
@@ -556,11 +509,7 @@ Unverified reports ignored.
 ## 📐 QUALITY GATE
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="600" height="300" alt="Productive Working"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Quality Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="450" alt="Productive Working"/>
 </div>
 
 <p align="center">
@@ -594,12 +543,8 @@ If it fails → rewrite or delete
 ## 🧨 PHILOSOPHY (UNFILTERED)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="600" height="300" alt="MindSphere"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="600" height="300" alt="Coding in Peace"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Philosophy Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="400" alt="MindSphere"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" width="400" alt="Coding in Peace"/>
 </div>
 
 <div align="center">
@@ -624,9 +569,6 @@ If it fails → rewrite or delete
   <img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="100" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="400" height="200" alt="Contact Animation"/>
-</div>
 
 <div align="center">
   <a href="https://github.com/AyushGupta0202">
@@ -657,19 +599,9 @@ If it fails → rewrite or delete
   </a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="150" alt="Social Animation"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="150" alt="Social Animation"/>
-</div>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="800" height="200" alt="Footer Animation"/>
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:000000,100:1a1a1a&text=OUTPUT%20IS%20THE%20ONLY%20TRUTH&fontColor=00ffcc&animation=twinkling"/>
@@ -679,9 +611,6 @@ If it fails → rewrite or delete
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,50:00ff9c,100:000000&height=120&section=footer&animation=twinkling"/>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Achievement Animation"/>
-</div>
 
 ---
 
@@ -689,9 +618,6 @@ If it fails → rewrite or delete
 
 > Learn freely. Clone nothing.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500" height="150" alt="License Animation"/>
-</div>
 
 See [LICENSE-EXTENSION.md](LICENSE-EXTENSION.md) for anti-copypaste clause.
 
@@ -705,9 +631,6 @@ See [LICENSE-EXTENSION.md](LICENSE-EXTENSION.md) for anti-copypaste clause.
   <img src="https://raw.githubusercontent.com/AyushGupta0202/AyushGupta0202/main/assets/tech-debt.svg" alt="Tech Debt Pressure" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="600" height="200" alt="Tech Debt Animation"/>
-</div>
 
 | Area | Debt | Reason | Status |
 |------|------|--------|--------|
@@ -732,9 +655,6 @@ This prevents bullshit excuses.
 
 > This repository assumes every PR is wrong until proven otherwise.
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="500" height="200" alt="AI Reviewer Animation"/>
-</div>
 
 **Psychological effect:** Contributors slow down. Quality goes up.
 
@@ -745,12 +665,8 @@ See [PR Template](.github/pull_request_template.md) for review criteria.
 ## 📊 LIVE METRICS DASHBOARD
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="700" height="300" alt="Busy Work"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="700" height="300" alt="Eat Sleep Code Repeat"/>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="700" height="300" alt="Dashboard Animation"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="450" alt="Busy Work"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212747657-7a8d59da-69c8-4110-8ea8-f8102fd0b413.gif" width="450" alt="Eat Sleep Code Repeat"/>
 </div>
 
 ### Velocity
@@ -798,12 +714,9 @@ See [LICENSE-EXTENSION.md](LICENSE-EXTENSION.md) for anti-copypaste clause.
 
 ## 🎯 VISUAL SUMMARY
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="800" height="300" alt="Summary Animation"/>
-</div>
 
 <div align="center">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" alt="Animated Line Separator" />
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" alt="Animated Line Separator" />
 </div>
 
 ### What This Profile Signals
